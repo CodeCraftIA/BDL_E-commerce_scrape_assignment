@@ -23,7 +23,7 @@ pip install -r requirements.txt
 To run the main data fetching and processing script, execute the following command in your terminal:
 
 - python main.py
-- 
+
 This script will perform the following tasks:
 
 - Fetch store client data.
